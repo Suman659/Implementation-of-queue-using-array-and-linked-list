@@ -1,0 +1,16 @@
+Queue using Array:
+
+E͟n͟q͟u͟e͟u͟e͟;
+Best Case: Ω(1)
+Worst Case: O(1)
+Average case: Θ(N)
+
+D͟e͟q͟u͟e͟u͟e͟;
+Best Case: Ω(1)
+Worst Case: O(N)
+Average Case: Θ(N)
+
+D͟e͟l͟e͟t͟i͟o͟n͟:
+Best Case: Ω(1)
+Worst Case: O(N)
+Average Case: Θ(N)
